@@ -1,3 +1,7 @@
 rdkit
 requests
 ipykernel
+re
+pandas
+numpy
+matplotlib
